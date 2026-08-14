@@ -16,8 +16,10 @@
     ·
     <a href="https://trypost.it">Website</a>
     ·
+    <a href="https://docs.trypost.it">Documentation</a>
+    ·
     <a href="https://github.com/trypostit/trypost/issues">Issues</a>
     ·
-    <a href="https://github.com/trypostit/trypost/milestones">Roadmap</a>
+    <a href="https://trypost.it/discord">Discord</a>
   </p>
 </p>
