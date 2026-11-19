@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/trypostit/trypost">
-  <img width="2560" height="800" alt="Logo" src="https://github.com/user-attachments/assets/99da45bb-12b9-4798-aa0c-d2e2672ee80a" />
+    <img width="1702" height="630" alt="facebook-cover" src="https://github.com/user-attachments/assets/a3153b15-a9e9-4aab-8da0-ab7a2b4358d6" />
   </a>
 
   <h3 align="center">TryPost.it</h3>
