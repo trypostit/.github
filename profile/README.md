@@ -7,7 +7,7 @@
   <h3 align="center">TryPost.it</h3>
 
   <p align="center">
-    Open-source Social Media Scheduling
+    Open-source social media scheduler built for humans and AI agents
     <br />
     <a href="https://trypost.it"><strong>Learn more »</strong></a>
     <br />
